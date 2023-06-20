@@ -1,0 +1,44 @@
+.footer {
+    margin: 0 auto;
+    height: 229px;
+    background-color: #121212;
+    color: white;
+}
+
+.footer__list {
+    text-align: center;
+}
+
+.footer__list-link {
+    margin-right: 55px;
+    margin-top: 60px;
+    display: inline-block;
+}
+
+.footer__btn {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: white;
+}
+
+.footer__about-us {
+    opacity: 0.5;
+}
+
+.footer__list-link:last-child {
+    margin-right: 0;
+}
+
+.footer__text {
+    margin-top: 87px;
+}
+
+.footer__text-header {
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    opacity: 0.5;
+}

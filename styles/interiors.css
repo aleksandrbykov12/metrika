@@ -1,0 +1,26 @@
+.interiors__title {
+    margin-bottom: 30px;
+    width: 980px;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.interiors__image {
+    position: relative;
+    background-image: url('../resources/interior.png');
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.interiors__image-text {
+    position: absolute;
+    left: 40px;
+    bottom: 40px;
+    width: 430px;
+    height: 81px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: white;
+}
