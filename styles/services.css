@@ -1,6 +1,6 @@
 .services {
     margin: 0 auto;
-    padding-top: 150px;
+    padding-top: 153px;
     background: black;
     color: white;
 }
@@ -17,9 +17,21 @@
     line-height: 25px;
 } */
 
-.services__image {
+.services__image-one {
     margin-bottom: 15px;
     height: 270px;
+}
+
+.services__image-two {
+    margin-bottom: 11px;
+}
+
+.services__image-three {
+    margin-bottom: 13px;
+}
+
+.services__image-four {
+    margin-bottom: 14px;
 }
 
 .services__text {
@@ -30,7 +42,7 @@
 }
 
 .services__list:last-child {
-    padding-bottom: 150px;
+    padding-bottom: 156px;
 }
 
 .services__last-text {

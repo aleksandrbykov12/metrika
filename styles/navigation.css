@@ -24,7 +24,7 @@
     color: #121212;
 }
 
-.navigation__about-us {
+.navigation__link:hover {
     opacity: 0.5;
     border-bottom: 1px solid #000000;
 }
