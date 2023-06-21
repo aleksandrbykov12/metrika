@@ -23,7 +23,7 @@
     color: white;
 }
 
-.footer__about-us {
+.footer__btn:hover {
     opacity: 0.5;
 }
 
