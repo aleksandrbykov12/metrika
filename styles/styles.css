@@ -44,6 +44,10 @@ img {
     width: 100%;
 }
 
+a {
+    transition: 0.5s;
+}
+
 @media (max-width: 1199px) {
     .container {
         width: 100%;
