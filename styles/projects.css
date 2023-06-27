@@ -31,6 +31,10 @@
     color: #ad1818;
 }
 
+.projects__link-one {
+    padding-left: 2px;
+}
+
 .projects__link-btn {
     padding: 56px 0;
     display: block;

@@ -1,7 +1,11 @@
+.container__services {
+    width: 100%;
+}
+
 .services {
     margin: 0 auto;
     padding-top: 153px;
-    background: black;
+    background: #121212;
     color: white;
 }
 
@@ -42,9 +46,18 @@
 }
 
 .services__list:last-child {
-    padding-bottom: 156px;
+    padding-bottom: 159px;
+}
+
+.services__text-two {
+    padding-left: 2px;
+}
+
+.services__text-three {
+    padding-left: 3px;
 }
 
 .services__last-text {
     margin-bottom: -7px;
+    padding-left: 4px;
 }

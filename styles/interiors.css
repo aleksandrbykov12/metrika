@@ -24,3 +24,39 @@
     line-height: 27px;
     color: white;
 }
+
+@media (max-width: 1199px) {
+    .interiors__image {
+        width: 930px;
+        background-position: 50%;
+    }
+
+    .interiors__title {
+        width: 802px;
+        font-size: 50px;
+        line-height: 60px;
+    }
+
+    .interiors__image-text {
+        font-size: 20px;
+        line-height: 27px;
+    }
+}
+
+@media (max-width: 767px) {
+    .interiors__image {
+        width: 100%;
+    }
+
+    .interiors__title {
+        width: 348px;
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .interiors__image-text {
+        width: 312px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+}
