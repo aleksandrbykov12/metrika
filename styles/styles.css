@@ -1,0 +1,66 @@
+@import url(../styles/navigation.css);
+@import url(../styles/interiors.css);
+@import url(../styles/about.css);
+@import url(../styles/projects.css);
+@import url(../styles/services.css);
+@import url(../styles/room.css);
+@import url(../styles/contacts.css);
+@import url(../styles/footer.css);
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    background: white;
+    font-family: 'Manrope';
+    color: #121212;
+}
+
+section {
+    margin-bottom: 150px;
+}
+
+/* section:nth-child(6) {
+    margin-bottom: 0;
+} */
+
+.container {
+    margin: 0 auto;
+    max-width: 1400px;
+    padding: 0 125px;
+}
+
+.container__services {
+    padding: 0 127px;
+}
+
+* {
+    letter-spacing: -0.03em;
+}
+
+img {
+    width: 100%;
+}
+
+@media (max-width: 1199px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    section {
+        margin-bottom: 120px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        padding: 0 13px;
+    }
+
+    section {
+        margin-bottom: 80px;
+    }
+}
