@@ -42,6 +42,12 @@ h2 {
 
 }
 
+.informations__link:hover {
+    border: 1px solid #ad1818;
+    background-color: #fff;
+    color: #ad1818;
+}
+
 @media (max-width: 1199px) {
     .informations__header {
         font-size: 18px;
