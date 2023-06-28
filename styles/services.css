@@ -1,25 +1,9 @@
-.container__services {
-    width: 100%;
-}
-
 .services {
     margin: 0 auto;
     padding-top: 153px;
     background: #121212;
     color: white;
 }
-
-.services__header {
-    margin-bottom: 33px;
-}
-
-/* .services__header {
-    padding-top: 150px;
-    padding-bottom: 34px;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 25px;
-} */
 
 .services__image-one {
     margin-bottom: 15px;

@@ -26,22 +26,21 @@ section {
     margin-bottom: 70px;
 }
 
-/* section:nth-child(6) {
-    margin-bottom: 0;
-} */
-
 .container {
     margin: 0 auto;
     max-width: 1400px;
     padding: 0 125px;
 }
 
-.container__services {
-    padding: 0 127px;
-}
-
 * {
     letter-spacing: -0.03em;
+}
+
+.title {
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
 }
 
 img {

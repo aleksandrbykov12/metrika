@@ -2,13 +2,6 @@
     margin-bottom: 88px;
 }
 
-/* .projects__header {
-    margin-bottom: 30px;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 25px;
-} */
-
 .projects__image {
     margin-bottom: 15px;
     height: 450px;
@@ -29,10 +22,6 @@
     line-height: 27px;
     text-decoration: none;
     color: #ad1818;
-}
-
-.projects__link-one {
-    padding-left: 2px;
 }
 
 .projects__link-btn {
