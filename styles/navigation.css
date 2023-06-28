@@ -32,7 +32,3 @@
 .navigation__link:last-child {
     margin-right: 0;
 }
-
-section:first-child {
-    margin-bottom: 70px;
-}
