@@ -1,4 +1,4 @@
-@import url(../styles/navigation.css);
+@import url(../styles/header.css);
 @import url(../styles/interiors.css);
 @import url(../styles/about.css);
 @import url(../styles/projects.css);
@@ -22,7 +22,7 @@ section {
     margin-bottom: 150px;
 }
 
-.navigation {
+.header {
     margin-bottom: 70px;
 }
 
