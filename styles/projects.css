@@ -43,3 +43,37 @@
     background-color: #ad1818;
     color: white;
 }
+
+@media (max-width: 1199px) {
+    .projects__images {
+        margin-bottom: 80px;
+    }
+
+    .projects__images:last-child {
+        margin-bottom: 100px;
+    }
+
+    .projects__image {
+        margin-bottom: 13px;
+        width: 100%;
+    }
+
+    .projects__title {
+        margin-bottom: 10px;
+        font-size: 25px;
+        line-height: normal;
+        letter-spacing: -0.75px;
+    }
+
+    .projects__link {
+        font-size: 20px;
+        line-height: normal;
+        letter-spacing: -0.6px;
+    }
+
+    .projects__link-btn {
+        width: 100%;
+        line-height: normal;
+        letter-spacing: -0.9px;
+    }
+}
